@@ -9,27 +9,6 @@
 </p>
 
 
-## Deploy - [Link](https://typescript-todo-app-one.vercel.app/)
+## Deploy - [Link](https://reliable-blini-626e25.netlify.app/)
 
-## Presentation
-![TODO APP](./public/todo.gif)
-
-
-
-
-### Tools used on this project
-
-- Visual Studio Code
-
-
-<br/>
-
-<h2>📬 Contact</h2>
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/aakashvani17-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakashvani17/)
-[![Github](https://img.shields.io/badge/aakashvani17-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Aakashvani)
-
-© 2022 aakash-kumar
 
